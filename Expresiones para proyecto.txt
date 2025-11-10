@@ -1,0 +1,13 @@
+Expresiones aceptadas:
+aabb
+aaababb
+bbabb
+baabb
+abb
+
+Expresiones Rechazadas:
+0*10*10*
+(ab)*ba
+(01)*1
+a*b*a*
+b*a(b|a)*
